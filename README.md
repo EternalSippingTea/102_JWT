@@ -13,7 +13,8 @@ Komik - GET ALL :
 Komik - GET BY ID :
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/def0bb57-366f-4316-9d4b-ba92986d9d1a" />
 
-
+Komik - UPDATE PROTECTED : 
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/ca572bcf-beae-4649-8a71-fa042e346ee5" />
 
 
 
