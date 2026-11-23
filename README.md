@@ -16,6 +16,8 @@ Komik - GET BY ID :
 Komik - UPDATE PROTECTED : 
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/ca572bcf-beae-4649-8a71-fa042e346ee5" />
 
+Komik - DELETE PROTECTED :
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/43e4bef6-6d1d-4c02-8162-a33bcbf72a54" />
 
 
 
