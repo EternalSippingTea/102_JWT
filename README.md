@@ -10,6 +10,11 @@ Komik - CREATE PROTECTED :
 Komik - GET ALL :
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/d643ea07-2f44-4124-a97c-543828329fad" />
 
+Komik - GET BY ID :
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/def0bb57-366f-4316-9d4b-ba92986d9d1a" />
+
+
+
 
 
 
