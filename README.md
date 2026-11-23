@@ -7,6 +7,10 @@ AUTH LOGIN :
 Komik - CREATE PROTECTED :
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/44d0a9e6-a1fe-4832-bc98-a34cd41f6ad1" />
 
+Komik - GET ALL :
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/d643ea07-2f44-4124-a97c-543828329fad" />
+
+
 
 
 
