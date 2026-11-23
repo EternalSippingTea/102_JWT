@@ -4,3 +4,9 @@ AUTH REGISTER :
 AUTH LOGIN :
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/d45388ca-01b1-4634-92f6-87edd30ab3e5" />
 
+Komik - CREATE PROTECTED :
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/44d0a9e6-a1fe-4832-bc98-a34cd41f6ad1" />
+
+
+
+
