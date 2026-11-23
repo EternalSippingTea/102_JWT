@@ -45,3 +45,25 @@ async function register(req, res) {
         });
     }
 }
+
+async function login(req,res) {
+    try{
+        const { email, password } = req.body;
+
+        if (!email || !password) {
+            return res.status (400).json({
+                message: "Email dan password wajib diisi."
+            });
+        }
+
+        const user = await User.findOne({
+            where: { email }
+        });
+
+        if (!user) {
+            return res.status(401).json({
+                message: "Email atau password salah."
+            });
+        }
+
+       
